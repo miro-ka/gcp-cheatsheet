@@ -6,7 +6,7 @@ Google Cloud Platform CheetSheet
 
 |	cmd	|	info	|
 |	:----	|	----	|
-|	`gcloud`	|	`Manage Google Cloud Platform resources and developer workflow`	|
+|	***`gcloud`***	|	`Manage Google Cloud Platform resources and developer workflow`	|
 |	gcloud config list	|	View your current gcp project info/details	|
 |	gcloud config set project [project]	|	Set/Change active project	|
 |	gcloud projects list	|	List of all your gcp projects	|
@@ -16,7 +16,7 @@ Google Cloud Platform CheetSheet
 |	gcloud components remove	|	Removes SDK component	|
 |	gcloud compute regions list	|	Returns list of available regions	|
 |		|		|
-|	`gsutil`	|		|
+|	***`gsutil`***	|		|
 |	gsutil mb -c regional -l asia-east1 gs://my-new-awesome-bucket	|	Create new Cloud Storage Bucket	|
 |	gsutil ls	|	List all your buckets	|
 |	gsutil cp	|	Copy objects	|
